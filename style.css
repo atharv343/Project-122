@@ -1,0 +1,17 @@
+body
+{
+	text-align: center;
+	background-color:7879FF;
+	color:aliceblue;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: whitesmoke;
+	border-radius: 20px;
+	box-shadow: 5px 5px 30px white;
+}
